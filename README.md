@@ -21,6 +21,25 @@ A backend API to manage drones, missions, and mission logs. Supports automatic d
 
 1. Clone the repository:
 
+2. flyt_internship1/
+│
+├── backend/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── db.py
+│   ├── schemas.py
+│   └── routes/
+│       ├── __init__.py
+│       ├── drones.py
+│       ├── missions.py
+│
+├── venv/                 # virtual environment (usually not pushed)
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+
 ```bash
 git clone https://github.com/USERNAME/drone-mission-api.git
 cd drone-mission-api
