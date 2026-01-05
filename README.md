@@ -1,3 +1,5 @@
+This project is a FastAPI-based backend system to manage drones and their missions efficiently. It allows creating and tracking missions, assigning drones automatically, updating mission statuses, and logging mission events. Designed for real-time operations, it can serve as the foundation for more advanced drone fleet management platforms.
+
 # Drone Mission API
 
 **Version:** 0.1.0  
